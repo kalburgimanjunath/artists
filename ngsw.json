@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1595397709349,
+  "timestamp": 1595401590798,
   "index": "https://kalburgimanjunath.github.io/artists/index.html",
   "assetGroups": [
     {
@@ -12,8 +12,8 @@
         "https://kalburgimanjunath.github.io/artists/5-es5.a16e9d7ff730e8bc5beb.js",
         "https://kalburgimanjunath.github.io/artists/favicon.ico",
         "https://kalburgimanjunath.github.io/artists/index.html",
-        "https://kalburgimanjunath.github.io/artists/main-es2015.21ac62ea90e53379a8a6.js",
-        "https://kalburgimanjunath.github.io/artists/main-es5.21ac62ea90e53379a8a6.js",
+        "https://kalburgimanjunath.github.io/artists/main-es2015.ed669291c9ff4eac2d21.js",
+        "https://kalburgimanjunath.github.io/artists/main-es5.ed669291c9ff4eac2d21.js",
         "https://kalburgimanjunath.github.io/artists/polyfills-es2015.b85ba166f997d29afc39.js",
         "https://kalburgimanjunath.github.io/artists/polyfills-es5.28b8058dedeea6a29c6c.js",
         "https://kalburgimanjunath.github.io/artists/runtime-es2015.3a4330a3e143c77f1415.js",
@@ -60,9 +60,9 @@
     "https://kalburgimanjunath.github.io/artists/assets/images/developed-with-youtube-sentence-case-light.png": "5e464a581cf659c50cadc5606cba4f2e62c881f8",
     "https://kalburgimanjunath.github.io/artists/assets/privacy-policy.txt": "02fd28d19f011dd75ff2e2483b67c664edfabee5",
     "https://kalburgimanjunath.github.io/artists/favicon.ico": "6cf8ada4691f9c8311889101d975fe925597ec22",
-    "https://kalburgimanjunath.github.io/artists/index.html": "f5199784a28a9b91e64116e2235838fc23c72630",
-    "https://kalburgimanjunath.github.io/artists/main-es2015.21ac62ea90e53379a8a6.js": "11ecf20e74570da8379edfa7a2940cbac120dc56",
-    "https://kalburgimanjunath.github.io/artists/main-es5.21ac62ea90e53379a8a6.js": "15e9964a78610acd18271dbdf9abc3e843d069b5",
+    "https://kalburgimanjunath.github.io/artists/index.html": "f0a55c87287b09462613186987b1e4879e44be6e",
+    "https://kalburgimanjunath.github.io/artists/main-es2015.ed669291c9ff4eac2d21.js": "66d87448798d2b4fc22c8c4f684ba179b15e368e",
+    "https://kalburgimanjunath.github.io/artists/main-es5.ed669291c9ff4eac2d21.js": "af770d2af881733f1e7ccf9b80677fbe984b33b3",
     "https://kalburgimanjunath.github.io/artists/polyfills-es2015.b85ba166f997d29afc39.js": "8c492478d10476a8379d74210b51625cc0fd828b",
     "https://kalburgimanjunath.github.io/artists/polyfills-es5.28b8058dedeea6a29c6c.js": "01f262c50ec7dbf376e40887734351a143760392",
     "https://kalburgimanjunath.github.io/artists/runtime-es2015.3a4330a3e143c77f1415.js": "65bd79366f5f11c43f7065902ba3476c6380db63",
